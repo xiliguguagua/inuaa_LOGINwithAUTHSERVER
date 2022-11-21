@@ -1,0 +1,22 @@
+{
+    "mail_username": "@qq.com",
+    "mail_password": "",
+    "smtp_host": "smtp.qq.com",
+	"imei": "",
+    "mobiletype": "",
+    "users": [
+        {
+            "name": "",
+            "student_id": "",
+            "student_password": "",
+            "receiver_mail": "",
+            "cookie": "eai-sess="
+        },
+	{
+		"name":"",
+		"student_id": "",
+		"student_password": "",
+		"receiver_mail": ""
+	}
+    ]
+}
