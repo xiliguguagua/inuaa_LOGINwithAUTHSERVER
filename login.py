@@ -90,7 +90,7 @@ class Login():
             return False
 
     def getCookie(self):
-        data = 'code={}&mobile_type={}&imei={}}&sid={}}'.format(self.mobile_code, self.mobiletype, self.imei, self.imei)
+        data = 'code={}&mobile_type={}&imei={}&sid={}'.format(self.mobile_code, self.mobiletype, self.imei, self.imei)
         r = requests.post('https://m.nuaa.edu.cn/a_nuaa/api/sso/login', headers=mobile_headers, data=data)
         if r.status_code == 200:
             try:
