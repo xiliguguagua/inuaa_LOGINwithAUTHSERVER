@@ -1,5 +1,5 @@
 # i南航自动打卡--使用统一身份认证登陆
-自2022年11月19日起https://m.nuaa.edu.cn/uc/wap/login网页被学校关闭，原自动打卡脚本无法登陆账号，更新为使用authserver.nuaa.edu.cn统一身份认证登陆
+自2022年11月19日起 https://m.nuaa.edu.cn/uc/wap/login 网页被学校关闭，原自动打卡脚本无法登陆账号，更新为使用 authserver.nuaa.edu.cn 统一身份认证登陆
 
 脚本修改自https://github.com/Wood1314/inuaa
 
